@@ -1,0 +1,6 @@
+/ -> sign up or login
+/shop -> shop
+/users/cart -> cart
+/admin -> admin panel
+/owner/products -> show all products
+/owner/admin -> shhow admin panel to create products
